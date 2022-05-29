@@ -1,5 +1,4 @@
-# Databricks notebook source
-# Romith Challa - Assignment 2
+# Databricks: "Real-Time" (Simulated) Streaming Play by Play Predictions
 
 # SparkSQL imports
 import pyspark.sql.functions as f
