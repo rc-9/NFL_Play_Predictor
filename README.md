@@ -31,7 +31,7 @@
 
 The purpose of this project was to explore tree-based ensemble methods to assess the performance and efficiency of these algorithms when applied to a classification problem. 
 Specifically, we targeted three techniques with varying levels of complexities: a basic decision-tree, a general gradient-boosting algorithm, and an extreme-gradient boosting algorithm (XG-Boost).
-The objective for each method was to accurately predict NFL plays (run, pass, field-goal, punt) based on attributes such as game-time remaining, yardage information, score-differential, and time-out availability.
+The objective for each method was to accurately predict NFL plays (run, pass, field-goal, punt) based on game-time remaining, yardage information, score-differential, and time-out availability.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
